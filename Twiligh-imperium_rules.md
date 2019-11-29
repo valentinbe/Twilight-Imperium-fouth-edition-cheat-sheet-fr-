@@ -82,6 +82,14 @@ Echanger des commodités pour les transformer en biens commerciaux:
 - **Jaune Cybernétique**: Amélioration unités terrestres/constructions (production, déplacement, défense planete)
 - **Vert Biotique**: plus de ressources strat et cartes action + combat tricks
 
+## Extra
+
+- Pas possible de scorer d'objectif public si ne contrôle pas toutes les planêtes de son système natal
+- 7 cartes action max hand size
+- Possible de jouer des cartes action après avoir passé
+- Trois objectifs secrets max pendant tout le jeu (validé+non validé), si pioche -> doit défausser 1 objectif non validé puis shuffle deck objectif
+- Max 2 SDP et 1 dock par planête
+
 ## Script de l'action tactique
 
 ```ts
