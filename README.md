@@ -43,7 +43,7 @@ Insectoid tacticians who start with modest resources and a small fleet, but who 
 ## The Universities of Jol-Nar
 Débutant: Oui
 
-Type: faibles en combat, haute technologie, pacifistes
+Type: faibles en combat, pacifistes, extrèmement fort en technologie
 
 Intelligent, peaceful people known for the scientific research facilities on their twin planets. They are not great in a fight, but can research new technology faster and more easily than any other race.
 
