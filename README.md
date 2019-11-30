@@ -54,6 +54,13 @@ Type: defensifs, pacifistes
 
 A proud, ancient race of humanoid space turtles who can use their political contacts to avoid confrontation and to veto dangerous agendas (and action cards, with the right tech). They can annex other planets via pure diplomacy.
 
+## The Yin Brotherhood (5+ players)
+Débutant: Oui
+
+Type: kamikaze
+
+A “race” of male clones driven by a shared religious fanaticism. Their holy fervor lets them convert the populace as they invade and make kamikaze ship attacks without hesitation. Their home system is particularly strong.
+
 ## The Naalu Collective
 Débutant: Non
 
@@ -102,13 +109,6 @@ Débutant: Non
 Type: mobiles, tricks avec trous de ver
 
 Beings of energy and light who control wormholes, for rapid movement and potentially even offensive ability. Their home system is very difficult to reach, which is a mixed blessing: good for defense, bad for fast expansion.
-
-## The Yin Brotherhood (5+ players)
-Débutant: Oui
-
-Type: kamikaze
-
-A “race” of male clones driven by a shared religious fanaticism. Their holy fervor lets them convert the populace as they invade and make kamikaze ship attacks without hesitation. Their home system is particularly strong.
 
 ## The Nekro Virus (5+ players)
 Débutant: Non ++
