@@ -36,7 +36,7 @@ A consortium of space pirates, all descend¬ants of what was once a system of pr
 ## Sardakk N’orr
 Débutant: Oui
 
-Type: agressif, domination, intimidation, très fort en combat
+Type: agressif, domination, intimidation, force brute, très fort en combat
 
 Insectoid tacticians who start with modest resources and a small fleet, but who can use their straightforward combat advantages to quickly build and conquer. Their dreadnoughts are custom-built to bombard ground forces before invasion.
 
