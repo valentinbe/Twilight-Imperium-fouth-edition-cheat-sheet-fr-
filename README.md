@@ -34,12 +34,6 @@ Type: domination, experts en combats terrestrres et production d'infanterie, ré
 
 The space forces of humanity, empowered by their ability to quickly breed and train new troops. They have countless special ops forces at their disposal (which they can upgrade further), their carriers are second to none, and they recover quickly if they overextend themselves.
 
-## The Ghosts of Creuss (5+ players)
-Experience Level: Moderate
-Type: mobiles, tricks avec trous de ver
-
-Beings of energy and light who control wormholes, for rapid movement and potentially even offensive ability. Their home system is very difficult to reach, which is a mixed blessing: good for defense, bad for fast expansion.
-
 ## The L1z1x Mindnet
 Experience Level: Low
 Type: agressifs, domination, très forts en capture de systèmes ennemis, vaisseau amiral très puissant
@@ -57,12 +51,6 @@ Experience Level: Moderate
 Type: sournois, initiavite des choix stratégiques, gros combat tricks
 
 Psychic snake-women who use telepathy to out-maneuver their foes. They act before everyone else, may retreat from unwinnable battles, and operate their fighters mentally (to devastating effect).
-
-## The Nekro Virus (5+ players)
-Experience Level: High
-Type: ultra agressive solo, vole les technos des autres joueurs
-
-A corrupted offshoot of the L1z1x, standing completely apart from galactic civilization. They cannot take part in politics or technological advancement, but they steal tech from every foe they injure, even if they lose the battle.
 
 ## Sardakk N’orr
 Experience Level: New Player
@@ -88,14 +76,26 @@ Type: defensifs, pacifistes
 
 A proud, ancient race of humanoid space turtles who can use their political contacts to avoid confrontation and to veto dangerous agendas (and action cards, with the right tech). They can annex other planets via pure diplomacy.
 
+## The Yssaril Tribes
+Experience Level: Moderate
+Type: réactionnaires, joue après la stratégie des autres joueurs épuisée
+
+Goblin-like guerilla fighters, masters of secret attacks and sabotage. They get a better selection of action cards, which they can also discard to “stall” indefinitely. And they start with a solid fleet and home system.sheet-fr-
+
+## The Ghosts of Creuss (5+ players)
+Experience Level: Moderate
+Type: mobiles, tricks avec trous de ver
+
+Beings of energy and light who control wormholes, for rapid movement and potentially even offensive ability. Their home system is very difficult to reach, which is a mixed blessing: good for defense, bad for fast expansion.
+
 ## The Yin Brotherhood (5+ players)
 Experience Level: Low
 Type: kamikaze
 
 A “race” of male clones driven by a shared religious fanaticism. Their holy fervor lets them convert the populace as they invade and make kamikaze ship attacks without hesitation. Their home system is particularly strong.
 
-## The Yssaril Tribes
-Experience Level: Moderate
-Type: réactionnaires, joue après la stratégie des autres joueurs épuisée
+## The Nekro Virus (5+ players)
+Experience Level: High
+Type: ultra agressive solo, vole les technos des autres joueurs
 
-Goblin-like guerilla fighters, masters of secret attacks and sabotage. They get a better selection of action cards, which they can also discard to “stall” indefinitely. And they start with a solid fleet and home system.sheet-fr-
+A corrupted offshoot of the L1z1x, standing completely apart from galactic civilization. They cannot take part in politics or technological advancement, but they steal tech from every foe they injure, even if they lose the battle.
