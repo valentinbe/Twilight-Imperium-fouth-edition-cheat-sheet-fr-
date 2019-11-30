@@ -31,7 +31,7 @@ Débutant: Oui
 
 Type: pirates, vole de l'argent aux autres joueurs
 
-A consortium of space pirates, all descend¬ants of what was once a system of prison planets, with an impressive fleet of ships. They can steal trade goods from other players and end certain space battles before their foe even gets off a shot.
+A consortium of space pirates, all descendants of what was once a system of prison planets, with an impressive fleet of ships. They can steal trade goods from other players and end certain space battles before their foe even gets off a shot.
 
 ## Sardakk N’orr
 Débutant: Oui
