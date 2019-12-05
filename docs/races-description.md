@@ -1,118 +1,135 @@
 ## The Barony of Letnev
+
 Débutant: Oui
 
 Type: contrôle de territoir, experts des combats spaciaux, enorme flotte spatiale
 
-Warrior-nobles with a powerful two-planet home system that gives them arguably the best starting position in the game. Their mastery of logistics lets them “buy” offensive power and handle larger than usual fleets.
+Nobles guerriers avec un puissant système de départ à deux planètes qui leur donne sans doute la meilleure position de départ du jeu. Leur maîtrise de la logistique leur permet d '«acheter» de la puissance offensive et de gérer des flottes plus grandes que les flottes habituelles.
 
 ## The Emirates of Hacan
+
 Débutant: Oui
 
 Type: dealers, capitalistes populaires, très riche
 
-Peaceful lion-like humanoids who value trade and diplomacy over militaristic might. They have more commodities to trade than any other race, can make deals with anyone, and may even trade action cards.
+Des humanoïdes en forme de lion pacifiques qui valorisent le commerce et la diplomatie par rapport à la puissance militaire. Ils ont plus de marchandises à échanger que n'importe quelle autre race, peuvent faire des affaires avec n'importe qui et peuvent même échanger des cartes d'action.
 
 ## The Federation of Sol
+
 Débutant: Oui
 
 Type: domination, experts en combats terrestrres et production d'infanterie, résilient
 
-The space forces of humanity, empowered by their ability to quickly breed and train new troops. They have countless special ops forces at their disposal (which they can upgrade further), their carriers are second to none, and they recover quickly if they overextend themselves.
+Les forces spatiales de l’humanité, habilitées par leur capacité à créer et à former rapidement de nouvelles troupes. Ils ont à leur disposition d'innombrables forces terrestre (qu'ils peuvent améliorer davantage), leurs transporteurs sont sans pareil et ils récupèrent rapidement dans le cas où ils overextend.
 
 ## The L1z1x Mindnet
+
 Débutant: Oui
 
 Type: agressifs, domination, très forts en capture de systèmes ennemis, vaisseau amiral très puissant
 
-Aggressive cyborgs with immediate access to plenty of home-system resources, but little diplomatic influence. They rely heavily on their powerful dreadnoughts and flagship, both in space combat and to bombard the enemy while invading.
+Cyborgs agressifs avec accès immédiat à de nombreuses ressources du système de départ, mais peu d'influence diplomatique. Ils comptent beaucoup sur leurs dreadnoughts puissants et leur vaisseau amiral, à la fois dans le combat spatial et pour bombarder l'ennemi en envahissant.
 
 ## The Mentak Coalition
+
 Débutant: Oui
 
 Type: pirates, vole de l'argent aux autres joueurs
 
-A consortium of space pirates, all descendants of what was once a system of prison planets, with an impressive fleet of ships. They can steal trade goods from other players and end certain space battles before their foe even gets off a shot.
+Un consortium de pirates de l'espace, tous issus de ce qui était autrefois un système de planètes pénitentiaires, doté d'une flotte impressionnante de navires. Ils peuvent voler des objets d’échange à d’autres joueurs et mettre fin à certaines batailles spatiales avant même que leur ennemi ne réussisse à tirer leur premier coup.
 
 ## Sardakk N’orr
+
 Débutant: Oui
 
 Type: agressif, domination, intimidation, force brute, très fort en combat
 
-Insectoid tacticians who start with modest resources and a small fleet, but who can use their straightforward combat advantages to quickly build and conquer. Their dreadnoughts are custom-built to bombard ground forces before invasion.
+Les tacticiens insectoïdes qui débutent avec des ressources modestes et une petite flotte, mais qui peuvent utiliser leurs avantages directs en matière de combat pour construire et conquérir rapidement. Leurs dreadnoughts sont construits sur mesure pour bombarder les forces terrestres avant l'invasion.
 
 ## The Universities of Jol-Nar
+
 Débutant: Oui
 
 Type: faibles en combat, pacifistes, extrèmement fort en technologie
 
-Intelligent, peaceful people known for the scientific research facilities on their twin planets. They are not great in a fight, but can research new technology faster and more easily than any other race.
+Un peuple intelligent et pacifique connu pour les installations de recherche scientifique sur leurs planètes jumelles. Ils ne sont pas forts en combat, mais peuvent rechercher de nouvelles technologies plus rapidement et plus facilement que n'importe quelle autre race.
 
 ## The Xxcha Kingdom
+
 Débutant: Oui
 
 Type: defensifs, pacifistes
 
-A proud, ancient race of humanoid space turtles who can use their political contacts to avoid confrontation and to veto dangerous agendas (and action cards, with the right tech). They can annex other planets via pure diplomacy.
+Une ancienne et fière race de tortues spatiales humanoïdes qui peuvent utiliser leurs contacts politiques pour éviter la confrontation et opposer leur veto aux agendas dangereux (et aux cartes d'action, avec la technologie appropriée). Ils peuvent annexer d'autres planètes via la diplomatie pure.
 
 ## The Yin Brotherhood (5+ players)
+
 Débutant: Oui
 
 Type: kamikaze
 
-A “race” of male clones driven by a shared religious fanaticism. Their holy fervor lets them convert the populace as they invade and make kamikaze ship attacks without hesitation. Their home system is particularly strong.
+Une «race» de clones animés par un même fanatisme religieux. Leur ferveur sacrée leur permet de convertir la population en envahissant et en faisant des attaques de vaisseaux kamikazes sans hésitation. Leur système de départ est particulièrement fort.
 
 ## The Naalu Collective
+
 Débutant: Non
 
 Type: sournois, initiavite des choix stratégiques, gros combat tricks
 
-Psychic snake-women who use telepathy to out-maneuver their foes. They act before everyone else, may retreat from unwinnable battles, and operate their fighters mentally (to devastating effect).
+Femmes-serpent psychiques qui utilisent la télépathie pour déjouer leurs ennemis. Ils agissent avant tout le monde, peuvent se retirer de batailles impossibles à gagner et opérer mentalement leurs combattants (avec un effet dévastateur).
 
 ## The Embers of Muaat
+
 Débutant: Non
 
 Type: soleil de guerre, intimidation
 
-Sentient fire creatures who can travel through supernovas effortlessly. At the beginning of the game, they are the only race who knows the secret of producing war suns, the deadliest ship that exists.
+Créatures de feu sensibles qui peuvent voyager à travers les supernovas sans effort. Au début du jeu, ils sont la seule race à connaître le secret de la fabrication de soleils de guerre, le navire le plus meurtrier qui existe.
 
 ## The Winnu
+
 Débutant: Non
 
 Type: mecatol rex domination
 
-Former stewards of Mecatol Rex who still have many supporters there. This makes it easier for them to quickly take control of Mecatol Rex, and lets them reinforce it easily. They can also choose their starting technology, which gives you plenty of options.
+Anciens stewards de Mecatol Rex qui y comptent encore de nombreux supporters. Cela leur permet de prendre plus facilement le contrôle de Mecatol Rex et de la renforcer facilement. Ils peuvent également choisir leur technologie de démarrage, ce qui offre de nombreuses options.
 
 ## The Yssaril Tribes
+
 Débutant: Non
 
 Type: réactionnaires, joue après la stratégie des autres joueurs épuisée
 
-Goblin-like guerilla fighters, masters of secret attacks and sabotage. They get a better selection of action cards, which they can also discard to “stall” indefinitely. And they start with a solid fleet and home system.sheet-fr-
+Des guérilleros gobelins, maîtres des attaques secrètes et du sabotage. Ils obtiennent une meilleure sélection de cartes Action, qu’ils peuvent également ignorer pour «stall» indéfiniment. Et ils commencent avec une flotte et un système de départ solide.
 
 ## The Arborec
+
 Débutant: Non ++
 
 Type: agressif, domination, production d'unités exponentielle, résilient
 
-Plant people who produce new soldiers naturally and organically rather than via recruitment. They start off weak but grow exponentially more powerful as they amass ground forces on each planet.
+Des plante qui produisent de nouveaux soldats naturellement et organiquement plutôt que par recrutement. Ils commencent faibles mais deviennent exponentiellement plus puissants en accumulant des forces terrestres sur chaque planète.
 
 ## The Clan of Saar
+
 Débutant: Non ++
 
 Type: nomades, pacifistes, stratégie adaptative, résilient
 
-A scattered, nomadic race, whose space docks need not be anchored to a planet. Instead, they use them to journey from system to system, usually preferring to explore new planets rather than fighting to keep the ones they have.
+Une race dispersée et nomade, dont les space docks ne doivent pas nécessairement être ancrés à une planète. Au lieu de cela, ils les utilisent pour se déplacer de système en système, préférant généralement explorer de nouvelles planètes plutôt que de se battre pour conserver celles qu’ils possèdent.
 
 ## The Ghosts of Creuss (5+ players)
+
 Débutant: Non
 
 Type: mobiles, tricks avec trous de ver
 
-Beings of energy and light who control wormholes, for rapid movement and potentially even offensive ability. Their home system is very difficult to reach, which is a mixed blessing: good for defense, bad for fast expansion.
+Des êtres d'énergie et de lumière qui contrôlent les trous de ver, pour un mouvement rapide et potentiellement même une capacité offensive. Leur système domestique est très difficile à atteindre, ce qui est un avantage à la fois: bon pour la défense et mauvais pour une expansion rapide.
 
 ## The Nekro Virus (5+ players)
+
 Débutant: Non ++
 
 Type: ultra agressive solo, vole les technos des autres joueurs
 
-A corrupted offshoot of the L1z1x, standing completely apart from galactic civilization. They cannot take part in politics or technological advancement, but they steal tech from every foe they injure, even if they lose the battle.
+Membres corrompus des L1z1x, complètement séparé de la civilisation galactique. Ils ne peuvent pas participer à la politique ou aux avancées technologiques, mais ils volent la technologie à chaque ennemi qu'ils blessent, même s'ils perdent la bataille.
