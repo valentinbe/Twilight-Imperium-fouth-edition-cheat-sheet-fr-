@@ -84,8 +84,6 @@ Echanger des commodités pour les transformer en biens commerciaux:
 - **Jaune Cybernétique**: Amélioration unités terrestres/constructions (production, déplacement, défense planete)
 - **Vert Biotique**: plus de ressources strat et cartes action + combat tricks
 
-[List des cartes technologiques](https://docs.google.com/document/d/1RH-J1qfwcSp1MSnlVbuovZd_OCDqhA4XgvIC2ayS0pw/edit?usp=sharing)
-
 ## Extra
 
 - Pas possible de scorer d'objectif public si ne contrôle pas toutes les planêtes de son système natal
