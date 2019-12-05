@@ -36,6 +36,8 @@ A chaque tour, choix de l'une des trois actions suivantes, puis joueur suivant:
   - _Pas possible de cible plusieurs fois la meme cible avec plusieurs cartes action ayant le même nom_
 - **Tactique**: CF partie suivante
 - **Passer**: `if(carte stratégie retournée)` Ne peut plus effectuer d'action pour le round sauf actions secondaires des cartes stratégiques
+  - Possible de jouer des cartes action (combat tricks) après avoir passé
+  - Possible de jouer les actions secondaires des cartes stratégiques après avoir passé
 
 ### Action tactique
 
@@ -88,9 +90,9 @@ Echanger des commodités pour les transformer en biens commerciaux:
 
 - Pas possible de scorer d'objectif public si ne contrôle pas toutes les planêtes de son système natal
 - 7 cartes action max hand size
-- Possible de jouer des cartes action après avoir passé
 - Trois objectifs secrets max pendant tout le jeu (validé+non validé), si pioche -> doit défausser 1 objectif non validé puis shuffle deck objectif
 - Max 2 SDP et 1 dock par planête
+- Une planête vide déjà visitée appartient au dernier joueur qui l'a visité (placer un jeton dessus quand quitte la planête)
 
 ## Script de l'action tactique
 
