@@ -1,5 +1,6 @@
 # Twilight imperium 4th edition Guide
 
-- [Rules cheatsheet](./rules-cheatsheet.md)
-- [Races description](./races-description.md)
-- [Setup](./setup.md)
+- [Rules cheatsheet](docs/rules-cheatsheet.md)
+- [Races description](docs/races-description.md)
+- [Setup](docs/setup.md)
+- [Script de l'action tactique](docs/action-script.md)

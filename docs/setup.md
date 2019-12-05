@@ -1,6 +1,6 @@
 - Jeton sur Mecatol Rex
-- tous les joueurs à 0 VP
+- Ttous les joueurs à 0 VP
 - Sortir 5 stage I et 5 stage II objectives
-- Reveler deux stage I objective
+- Reveler les deux premiers stage I objective
 - Chaque joueur pioche deux objectifs secret, et en garde un
 - PLacer 3 tactics, 3 en fleet, 2 en stratégie
