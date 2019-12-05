@@ -12,10 +12,10 @@ Draft une carte, sens horaire en commencant par l'orateur, puis mettre 1 bien co
 
 ### Explication des cartes
 
-- **1 Gouvernance\***: + d'actions (+3 pions commandement)
+- **1 Gouvernance\***: Gagner plus de jetons d'actions (+3 pions commandement)
 - **2 Diplomatie**: Se protéger des attaques ennemies + restaurer ressources du système
-- **3 Politique\***: Piocher cartes actions + pouvoirs dans décisions politiques (choix orateur + scry 2 paquet projet)
-- **4 Construction\***: Construire structures sur planètes (pour défense et prod d'unités) **2 SDP max par planête**
+- **3 Politique\***: Pioche cartes actions et pouvoirs dans décisions politiques (choix orateur + scry 2 paquet projet)
+- **4 Construction\***: Pour construire des structures sur ses planètes (pour défense et prod d'unités)
 - **5 Commerce\***: Faire du commerce et gagner des ressources (Biens commerciaux + commodités)
 - **6 Guerre\***: Se déplacer deux fois avec un vaisseau ou se déplacer et produire sur un même système en un round + modifier sa stratégie en cours de round
 - **7 Technologie\***: Recherche de technologies
