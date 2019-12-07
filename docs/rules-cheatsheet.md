@@ -97,10 +97,14 @@ A chaque tour, choix de l'une des trois actions suivantes, puis joueur suivant:
 
 ## Echanges commerciaux
 
-Echanger des commodités pour les transformer en biens commerciaux:
-
-- Joueur actif avec joueurs qui possedent des vaisseaux dans des systèmes adjacent aux siens
+- Pendant son tour chaque joueur peut effectuer jusqu'à un échange avec chacun de ses voisins (qui possede des vaisseaux dans des systèmes adjacent aux siens)
+- A n'importe quel moment, même en combat
 - N'importe quel joueur si **phase de projet**
+
+### Peut échanger
+
+- Des commodités pour les transformer en biens commerciaux
+- Des biens commerciaux
 
 ## Technologies
 
@@ -122,8 +126,10 @@ Echanger des commodités pour les transformer en biens commerciaux:
 
 ## Extra
 
+- Sur une carte planête, valeur de ressource en jaune, influence en bleu
 - Pas possible de scorer d'objectif public si ne contrôle pas toutes les planêtes de son système natal
 - 7 cartes action max hand size
 - Trois objectifs secrets max pendant tout le jeu (validé+non validé), si pioche -> doit défausser 1 objectif non validé puis shuffle deck objectif
 - Max 2 SDP et 1 dock par planête
 - Une planête vide déjà visitée appartient au dernier joueur qui l'a visité (placer un jeton dessus quand quitte la planête)
+- Production d'unités limité par les unités restantes dans sa reserve sauf chasseurs et infanterie. Si out dans la réserve : le joueur peut detruire des unités qu'il souhaite produire, de ses systèmes non activés pour les remettre dans sa reserve au début de la phase de production.
