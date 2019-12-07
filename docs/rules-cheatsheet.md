@@ -1,12 +1,13 @@
 # Twilight Imperium fouth edition cheat sheet (fr)
 
-## Distribution des pions de commandement
+## Ordre du tour
 
-- **Tactique**: Utilisés pour activer des systèmes lors de la phase d'action: démarre une action tactique
-- **Flotte**: Nombre maximal de vaisseaux sauf chasseur dans ses systèmes
-- **Stratégique**: Pour utiliser l'action secondaire des cartes stratégies (+ certaines actions raciales)
+1. Phase de stratégie
+2. Phase d'action
+3. Phase de statut
+4. Phase de projet
 
-## Phase de stratégie
+## 1. Phase de stratégie
 
 Draft une carte, sens horaire en commencant par l'orateur, puis mettre 1 bien commercial sur les cartes restantes
 
@@ -21,9 +22,9 @@ Draft une carte, sens horaire en commencant par l'orateur, puis mettre 1 bien co
 - **7 Technologie\***: Recherche de technologies
 - **8 Intrigue**: Scorer des points de victiore + piocher objectif secret
 
-_Bold si bon choix en début de partie_
+_\* si bon choix en début de partie_
 
-## Phase d'action
+## 2. Phase d'action
 
 Tourne en fonction de l'initiative des cartes stratégie
 A chaque tour, choix de l'une des trois actions suivantes, puis joueur suivant:
@@ -64,6 +65,36 @@ A chaque tour, choix de l'une des trois actions suivantes, puis joueur suivant:
   - Destruction des structures adverses si victoire attaquant
 - Production si dock spatiaux dans le système
 
+## 3. Phase de statut
+
+- Chaque joueur peut scorer des VP, Max 1 objectif public + 1 secret
+- Révéler 1 objectif public
+- Dans l’ordre d’initiative chaque joueur pioche 1 carte action
+- Retirer pions de commandement utilisés
+- Gagner 2 pions de commandement
+- Redistribuer ses pions de commandement
+- Restaurer ses cartes
+- Réparer ses unités rendre ses cartes stratégiques
+
+### Distribution des pions de commandement
+
+- **Tactique**: Utilisés pour activer des systèmes lors de la phase d'action: démarre une action tactique
+- **Flotte**: Nombre maximal de vaisseaux sauf chasseur dans ses systèmes
+- **Stratégique**: Pour utiliser l'action secondaire des cartes stratégies (+ certaines actions raciales)
+
+## 4. Phase de projet
+
+- Projet 1
+- Projet 2
+- Restaurer les planètes
+
+### Fonctionnement
+
+- Les votes commencent par la personne à gauche de l’orateur , sens horaire
+- Possible de passer un vote
+
+---
+
 ## Echanges commerciaux
 
 Echanger des commodités pour les transformer en biens commerciaux:
@@ -83,6 +114,11 @@ Echanger des commodités pour les transformer en biens commerciaux:
 - **Rouge Militaire**: Améliorer la force de ses unités en combat
 - **Jaune Cybernétique**: Amélioration unités terrestres/constructions (production, déplacement, défense planete)
 - **Vert Biotique**: plus de ressources strat et cartes action + combat tricks
+
+## Orateur
+
+- Premier à drafter carte stratégie
+- Vote en dernier pendant la phase projet, tranche les égalités
 
 ## Extra
 
